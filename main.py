@@ -1,5 +1,5 @@
 shop_dictionary = {
-    "piekarnia":["chleb","bułki","pączek"],
+    "piekarnia":["chleb","bagietka","pączek"],
     "warzywniak":["marchew","pomidor","rukola"]
     }
 for key,value in shop_dictionary.items():
