@@ -1,6 +1,6 @@
 shop_dictionary = {
     "piekarnia":["chleb","bułki","pączek"],
-    "warzywniak":["marchew","seler","rukola"]
+    "warzywniak":["marchew","pomidor","rukola"]
     }
 for key,value in shop_dictionary.items():
     value_copy = [word.title() for word in value] 
